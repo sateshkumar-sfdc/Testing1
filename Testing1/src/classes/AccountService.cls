@@ -5,7 +5,7 @@
 ** YETI Coolers										       **
 *************************************************************
 ** Purpose:                  							   **
-** This class Contain Account Methods to Call SAP test     **
+** This class Contain Account Methods to Call SAP          **
 *************************************************************
 ** History:                                                **
 ************************************************************* 
