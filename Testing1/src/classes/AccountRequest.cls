@@ -5,7 +5,7 @@
 ** YETI Coolers										       **
 *************************************************************
 ** Purpose:                  							   **
-** Account Request structure from Json testing                     **
+** Account Request structure from Json testing   .                  **
 *************************************************************
 ** History:                                                **
 ************************************************************* 
